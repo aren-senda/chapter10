@@ -64,8 +64,15 @@ main{
 }
 
 @media screen and (max-width:768px) {
+
+main{
+	width: 50%;
+}
+
 .box{
 	width: 100%;
+	margin: 10px 0;
 }
+
 
 }
